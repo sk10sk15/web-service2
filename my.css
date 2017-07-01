@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 100%;
+    background-color: #bbbbbb;
+}
+
+#all {
+    height: 100%;
+    width: 70%;
+    margin: 20px auto;
+    padding: 15px 15px;
+    text-align: left;
+    background-color: #ffffff;
+}
+
+.twit {
+    border: 2px solid #bbbbbb;
+}
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+    margin: 0;
+    padding: 0;
+}
